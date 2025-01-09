@@ -1,7 +1,7 @@
-# Projeto-Phishing
+# Projeto-Phishing Dio.me CyberSecurity
 Criar uma página falsa de login do Facebook para capturar credenciais.
 
-Ferramenta: Social-Engineer Toolkit (SET).
+Ferramenta: Kali Linux / Social-Engineer Toolkit (SET).
 Metodologia:
 
 Configurar o SET para clonar a página do Facebook.
@@ -52,4 +52,4 @@ Atenção Pontos Importantes ( Este projeto foi feito para fins de estudo da DIO
 
 º Caso precise rodar fora da sua rede, utilize ferramentas como ngrok para expor localmente seu servidor na internet.
 
-ºSempre informe às pessoas envolvidas sobre a finalidade educacional ou de segurança desse teste.
+º Sempre informe às pessoas envolvidas sobre a finalidade educacional ou de segurança desse teste.
