@@ -53,3 +53,4 @@ Atenção Pontos Importantes ( Este projeto foi feito para fins de estudo da DIO
 º Caso precise rodar fora da sua rede, utilize ferramentas como ngrok para expor localmente seu servidor na internet.
 
 º Sempre informe às pessoas envolvidas sobre a finalidade educacional ou de segurança desse teste.
+![2025-01-09 213714](https://github.com/user-attachments/assets/4664fa02-a3a3-4025-af9b-77613f0bc4e3)
